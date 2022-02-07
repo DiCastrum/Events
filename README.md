@@ -4,7 +4,7 @@ Events is an application that allow to add new events to the page.
 
 1. Past events cannot be added, can only be added to the day that is inputing the data and foward.
 2. Past events will be filted and not showing on the Event section.
-3. Fist event have bigger box, all the others will have same shape.
+3. First event have bigger box, all the others will have same shape.
 4. When a new event is added all the events will be sorted to be by date order. 
 
 
