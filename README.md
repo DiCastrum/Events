@@ -63,4 +63,6 @@ npm start
 
 Pedro de Castro - [Github](https://github.com/DiCastrum) - [LinkedIn](https://linkedin.com/in/pedro-de-castro-dicastrum)
 
-<img src="client/public/icon.png" alt="drawing" width="20"/> DiCastrumTech
+<img src="client/public/icon.png" alt="drawing" width="100"/> 
+
+DiCastrumTech
